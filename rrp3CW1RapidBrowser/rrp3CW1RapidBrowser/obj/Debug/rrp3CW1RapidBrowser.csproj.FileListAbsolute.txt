@@ -1,0 +1,10 @@
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\bin\Debug\rrp3CW1RapidBrowser.exe.config
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\bin\Debug\rrp3CW1RapidBrowser.exe
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\bin\Debug\rrp3CW1RapidBrowser.pdb
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\obj\Debug\rrp3CW1RapidBrowser.csprojResolveAssemblyReference.cache
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\obj\Debug\rrp3CW1RapidBrowser.Properties.Resources.resources
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\obj\Debug\rrp3CW1RapidBrowser.csproj.GenerateResource.Cache
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\obj\Debug\rrp3CW1RapidBrowser.exe
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\obj\Debug\rrp3CW1RapidBrowser.pdb
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\obj\Debug\rrp3CW1RapidBrowser.HomePage.resources
+C:\Users\customer\Documents\rrp3CW1\rrp3CW1RapidBrowser\rrp3CW1RapidBrowser\obj\Debug\rrp3CW1RapidBrowser.View.DisplayPage.resources
