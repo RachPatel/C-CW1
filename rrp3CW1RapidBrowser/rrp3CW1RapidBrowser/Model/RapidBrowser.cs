@@ -113,6 +113,7 @@ namespace rrp3CW1RapidBrowser
                     throw new InvalidOperationException(
                    String.Format("Use a correct URL format "), ex);
 
+
                 }
             
             return (RB.HTMLcode);
