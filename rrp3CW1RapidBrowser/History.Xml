@@ -3,4 +3,10 @@
   <RapidBrowser>
     <URL>http://www.google.com</URL>
   </RapidBrowser>
+  <RapidBrowser>
+    <URL>http://www.google.com</URL>
+  </RapidBrowser>
+  <RapidBrowser>
+    <URL>http://www.google.com</URL>
+  </RapidBrowser>
 </ArrayOfRapidBrowser>
