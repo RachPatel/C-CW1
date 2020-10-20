@@ -9,25 +9,29 @@ namespace rrp3CW1RapidBrowser
 {
     public class History
     {
-        Stack<RapidBrowser> history = new Stack<RapidBrowser>();
+
+        private List<RapidBrowser> history;
+
+        public History()
+        {
+            history = new List<RapidBrowser>();
+        }
+
+        public void MyHistory (RapidBrowser rb)
+        {
+            history.Add(rb);
+        }
+   
+        public List<RapidBrowser> GetMyHistory()
+        {
+            return history;
+        }
      
-        public RapidBrowser RapidBrowser { get; set; }
+       
+     
 
-
-        public void AddToHistory(RapidBrowser RB)
-        {
-          
-                    history.Push(RB);
-                
-        }
-
-        public int HContent()
-        {
-            return history.Count;
-        }
-
-
-
-
+      
+              
+      
     }
 }
